@@ -16,5 +16,9 @@ return {
     cn = {
       enabled = true,
     },
+    storage = {
+      home = vim.env.HOME .. "/leetcode",
+      cache = vim.fn.stdpath("cache") .. "/leetcode",
+    },
   },
 }
