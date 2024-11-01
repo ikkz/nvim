@@ -12,7 +12,7 @@ return {
   },
   opts = {
     arg = "lc.nvim",
-    lang = "cpp",
+    lang = "python3",
     cn = {
       enabled = true,
     },
