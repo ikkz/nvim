@@ -14,7 +14,7 @@
   "fzf-lua": { "branch": "main", "commit": "15d5cd9a74da7f8739030a5c411c046c70f66a60" },
   "gitsigns.nvim": { "branch": "main", "commit": "751bfae26a3561394afcafdf92b0dc52988ce436" },
   "grug-far.nvim": { "branch": "main", "commit": "cddad8379d9412f9a29f448ac3e21ff8dd9394e7" },
-  "hardtime.nvim": { "branch": "main", "commit": "5d9adcbe2f12741de79e435c8b85dca69a3b22e4" },
+  "hardtime.nvim": { "branch": "main", "commit": "f87c86d1aa1e05dcf3c6ecd97fbfd237e2de0bf5" },
   "lazy.nvim": { "branch": "main", "commit": "6c3bda4aca61a13a9c63f1c1d1b16b9d3be90d7a" },
   "lazydev.nvim": { "branch": "main", "commit": "2367a6c0a01eb9edb0464731cc0fb61ed9ab9d2c" },
   "leetcode.nvim": { "branch": "master", "commit": "db7e1cd6b9191b34b4c1f2f96e4e3949cde9f951" },
